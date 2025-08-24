@@ -4,7 +4,7 @@ from discord.ext import commands
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-TOKEN = "MTQwOTE2NTY5MjE4NzcwNTQ2Ng.GYj3XF.MUD0h-oUF-ER-miWDT423hTLA1KkavDCnl2nrE"  # 🔑 Mets ici ton token sécurisé
+TOKEN =   # 🔑 Mets ici ton token sécurisé
 LOG_CHANNEL_ID = 1409167403610407093  # ID du salon où stocker les infos
 
 # ----------------------------
@@ -154,4 +154,5 @@ async def on_ready():
 # ----------------------------
 
 bot.run(TOKEN)
+
 
